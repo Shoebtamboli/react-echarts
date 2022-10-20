@@ -1,7 +1,7 @@
 {
-  "name": "react-echart",
+  "name": "react-echarts",
   "version": "1.0.0",
-  "homepage": "https://shoebtamboli.github.io/react-echart",
+  "homepage": "https://shoebtamboli.github.io/react-echarts",
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
