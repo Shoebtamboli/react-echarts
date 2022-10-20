@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-echarts/static/css/main.fc5c2c69.css",
+    "main.js": "/react-echarts/static/js/main.2312d31e.js",
+    "index.html": "/react-echarts/index.html",
+    "main.fc5c2c69.css.map": "/react-echarts/static/css/main.fc5c2c69.css.map",
+    "main.2312d31e.js.map": "/react-echarts/static/js/main.2312d31e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.2312d31e.js"
+  ]
+}
